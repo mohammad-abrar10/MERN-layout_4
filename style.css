@@ -1,0 +1,174 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  /* box-sizing: border-box; */
+}
+
+nav {
+  background-color:greenyellow;
+  color: #fff;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+}
+
+nav h1 {
+  height: 20px; 
+  padding: 10px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+}
+
+nav li {
+  margin-right: 20px; 
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+#h1{
+  background-color: yellowgreen;
+  position: absolute;
+  width: 33%;
+  margin: 10px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+}
+#h2{
+  background-color: yellowgreen;
+  position: absolute;
+  left: 35%;
+  width: 30%;
+  margin: 10px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+  
+}
+#h3{
+  background-color: yellowgreen;
+  position: absolute;
+  left: 67%;
+  width: 30%;
+  margin: 10px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+}
+#h4{
+  background-color: yellowgreen;
+  position: absolute;
+  bottom: 360px;
+  width: 33%;
+  margin: 10px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+
+}
+#h5{
+  background-color: yellowgreen;
+  position: absolute;
+  bottom: 360px;
+  left: 35%;
+  height: 100px;
+  width: 30%;
+  margin: 10px;
+  text-align: center;
+  line-height: 100px;
+
+  
+}
+#h6{
+  background-color: yellowgreen;
+  position: absolute;
+  bottom: 360px;
+  left: 67%;
+  width: 30%;
+  margin: 10px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+ 
+  
+}
+#h7{
+  background-color: yellowgreen;
+  position: absolute;
+  bottom: 250px;
+  width: 33%;
+  margin: 10px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+  
+}
+#h8{
+  background-color: yellowgreen;
+  position: absolute;
+  bottom: 250px;
+  left: 35%;
+  height: 100px;
+  width: 30%;
+  margin: 10px;
+  text-align: center;
+  line-height: 100px;
+}
+#h9{
+  background-color: yellowgreen;
+  position: absolute;
+  bottom: 250px;
+  left: 67%;
+  width: 30%;
+  margin: 10px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+  
+}
+#box1{
+  background-color: yellowgreen;
+  position: absolute;
+  bottom:40px;
+  width: 49%;
+  height: 200px;
+  margin: 10px;
+  text-align: center;
+  line-height: 200px;
+
+}
+#box2{
+  background-color: yellowgreen;
+  position: absolute;
+  bottom:40px;
+  left: 50%;
+  width: 47%;
+  height: 200px;
+  line-height: 200px;
+  margin: 10px;
+  text-align: center;
+
+}
+footer{
+  background-color: yellowgreen;
+  position: absolute;
+  width: 99%;
+  bottom: 0%;
+  min-height: 40px;
+  line-height: 40px;
+  margin: 5px;
+  text-align: center;
+}
+
